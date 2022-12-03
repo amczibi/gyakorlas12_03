@@ -1,0 +1,3 @@
+import gyakorlo
+
+gyakorlo.primszam()
